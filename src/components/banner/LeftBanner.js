@@ -27,9 +27,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          A great idea needs the perfect platform to be realized.
-          Rest assured, I've got you covered. I am specialize in delivering top-notch
-          Mobile Application and Web Development services,with extensive expertise in UI/UX design.
+        I'm a Flutter developer with a BS in Computer Science, specialized in creating professional mobile apps. Whether it's designing user interfaces or writing reliable code, I'm committed to turning your app concepts into reality. Any questions? Just ask!
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">

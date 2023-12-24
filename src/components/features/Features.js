@@ -33,10 +33,8 @@ const Features = () => {
           icon={<SiProgress />}
         /> */}
         <Card
-          title="Mobile Development"
-          des="I specialize in developing high-quality mobile apps for iOS and Android platforms.
-          From concept to launch, I work closely with clients to bring their ideas to life and create
-          engaging and user-friendly experiences for their customers.."
+          title="Mobile App Development"
+          des="Experienced Flutter developer skilled in Dart, Firebase, Riverpods state management, clean code structure, responsive UI, and integration with various APIs."
           icon={<FaMobile />}
         />
         {/* <Card
